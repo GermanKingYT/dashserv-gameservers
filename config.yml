@@ -1,5 +1,5 @@
 listeners:
 - query_port: 
-  motd: '&1Another Bungee server'
+  motd: 'Hosted by Dashserv.io'
   host: 
  
